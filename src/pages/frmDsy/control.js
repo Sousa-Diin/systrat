@@ -1050,7 +1050,7 @@ function myLink(link) {
        localStorage.removeItem("score");
        localStorage.removeItem("display");
        localStorage.removeItem("started");
-      window.location.pathname = "src/auth/index.html";
+      window.location.pathname = "index.html";
       break;
     case "download":
       gerarJSONeDownload();
