@@ -1,0 +1,4 @@
+id,type,licensePlate,nivel,operation,quant,myHour,audit,date
+1,BOCEJO,789456,blue,CMPC,1,13:32,false,2023-10-11
+2,SONOLÊNCIA N1,132456,red,SETE LAGOAS,1,13:59,false,2023-10-11
+3,CELULAR,ETS4512,yellow,MMI,1,14:5,false,2023-10-11

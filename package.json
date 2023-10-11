@@ -1,0 +1,12 @@
+{
+  "name": "systrat",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "main.js"
+  },
+  "keywords": [],
+  "author": "Wildes Sousa",
+  "license": "ISC"
+}
